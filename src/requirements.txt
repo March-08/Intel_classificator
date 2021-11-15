@@ -1,3 +1,8 @@
 gunicorn
-flask
-numpy
+Werkzeug==1.0.1
+matplotlib==3.4.2
+numpy==1.19.5
+flask==1.1.2
+Pillow==8.4.0
+scikit_learn==1.0.1
+tensorflow==2.7.0
